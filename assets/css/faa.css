@@ -19,7 +19,7 @@
 }
 
 .sMFAQI_AccoItemHead {
-  background: rgb(242,134,182);
+  background: rgb(133,199,118);
   border-radius: 10px;
   box-shadow: unset;
 }
@@ -30,7 +30,7 @@
 }
 
 .accordion-button.sMFAQI_AccoItemHeadBtn {
-  color: #ffffff;
+  color: #232323;
   background: unset;
   font-weight: bold;
   border: unset;
