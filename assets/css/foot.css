@@ -30,7 +30,7 @@
   justify-content: center;
   align-items: center;
   padding: 15px;
-  color: #ffffff;
+  color: #232323;
 }
 
 .FooterMain_TopLeft {
@@ -54,7 +54,7 @@
 .FM_TMI_Link {
   transition: ease 0.4s;
   text-decoration: unset;
-  color: #ffffff;
+  color: #232323;
   padding: 10px 25px;
   font-weight: bold;
   border-radius: 10px;
@@ -67,7 +67,7 @@
 
 .FM_TMI_Link:hover {
   transition: ease 0.4s;
-  color: #ffffff;
+  color: #232323;
   transform: scale(1.03);
   background: rgb(133,199,118);
 }
@@ -97,7 +97,7 @@
 }
 
 .FM_TRInside {
-  color: #ffffff;
+  color: #232323;
 }
 
 @media (max-width: 992px) {
