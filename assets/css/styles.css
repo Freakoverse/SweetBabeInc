@@ -124,7 +124,7 @@
   transition: ease 0.4s;
   padding-top: 145%;
   width: 100%;
-  border: solid 5px #85c776;
+  border: solid 10px #f286b6;
   background-position: center!important;
   background-size: cover!important;
   background-repeat: no-repeat!important;
@@ -155,6 +155,10 @@
   grid-gap: 25px;
   align-items: center;
   justify-content: space-between;
+  background: #f286b6;
+  overflow: hidden;
+  border-radius: 10px;
+  padding: 25px 0 0 0;
 }
 
 .gridClientsElement:hover {
@@ -172,10 +176,11 @@
   text-align: center;
   font-size: 24px;
   padding: 15px;
-  border-radius: 10px;
+  border-radius: 0px;
   background: #85c776;
   line-height: 1.5;
   width: 100%;
+  font-weight: bold;
 }
 
 .splitLeft.splitLeftServices {
