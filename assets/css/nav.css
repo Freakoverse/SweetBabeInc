@@ -114,6 +114,7 @@
 
 .NMI_LSL_Img {
   width: 100%;
+  min-width: 300px;
 }
 
 .NMI_LinksSecLink {
